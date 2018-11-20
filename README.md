@@ -4,6 +4,10 @@ Machine Learning in TypeScript
 ## SEE ALSO
 
 - [Artificial Intelligence, Design, and the Web](https://thekevinscott.com)
+- [tfjs-vis - A set of utilities for in browser visualization with TensorFlow.js](https://github.com/tensorflow/tfjs-vis/)
+- [Tensorflow.js Live @ CodePen.io](https://codepen.io/zixia/pen/OaOove?editors=1111)
+- [JS Linux - Run Linux or other Operating Systems in your browser!](https://bellard.org/jslinux/index.html)
+- [Getting Alexa to Respond to Sign Language Using Your Webcam and TensorFlow.js](https://medium.com/tensorflow/getting-alexa-to-respond-to-sign-language-using-your-webcam-and-tensorflow-js-735ccc1e6d3f)
 
 ## AUTHOR
 
