@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zixia/machine-learning-in-typescript.git"
+    "url": "git+https://github.com/huan/machine-learning-in-typescript.git"
   },
   "keywords": [
     "machine",
@@ -23,9 +23,9 @@
   "author": "Huan LI <zixia@zixia.net>",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/zixia/machine-learning-in-typescript/issues"
+    "url": "https://github.com/huan/machine-learning-in-typescript/issues"
   },
-  "homepage": "https://github.com/zixia/machine-learning-in-typescript#readme",
+  "homepage": "https://github.com/huan/machine-learning-in-typescript#readme",
   "devDependencies": {
     "ts-node": "^7.0.1",
     "tslint": "^5.11.0",

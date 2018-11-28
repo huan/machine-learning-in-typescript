@@ -15,7 +15,7 @@ Machine Learning in TypeScript
 
 ## AUTHOR
 
-[@zixia](https://github.com/zixia) [Huan LI](https://linkedin.com/in/zixia) \<zixia@zixia.net\>
+[@zixia](https://github.com/huan) [Huan LI](https://linkedin.com/in/zixia) \<zixia@zixia.net\>
 
 <a href="http://stackoverflow.com/users/1123955/zixia">
   <img src="http://stackoverflow.com/users/flair/1123955.png" width="208" height="58" alt="profile for zixia at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for zixia at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
